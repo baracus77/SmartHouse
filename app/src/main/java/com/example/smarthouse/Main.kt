@@ -28,3 +28,5 @@ open class SmartDevice(val name: String, val category: String ){
         println("Smart device is turned off.")
     }
 }
+
+//test commit
