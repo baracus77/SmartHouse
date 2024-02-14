@@ -29,4 +29,4 @@ open class SmartDevice(val name: String, val category: String ){
     }
 }
 
-//test commit
+//test
