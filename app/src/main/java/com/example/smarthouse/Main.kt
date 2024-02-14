@@ -4,7 +4,7 @@ import java.lang.reflect.Constructor
 
 fun main(){
 
-    val smartTvDevice = SmartDevice("Android TV", "Entertainment")
+    val smartTvDevice = SmartTvDevice("Android TV", "Entertainment")
 
 
     println("Device name : ${smartTvDevice.name}")
